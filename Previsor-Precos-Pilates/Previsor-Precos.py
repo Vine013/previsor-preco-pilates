@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Carregar os dados
-data = pd.read_csv('precos-pilates.csv')
+data = pd.read_csv('Previsor-Precos-Pilates/precos-pilates.csv')
 
 # Função para calcular o preço baseado nas regras
 def calcular_preco(modalidade, horario, dias_semana, plano, forma_pagamento):
