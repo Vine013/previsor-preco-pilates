@@ -35,7 +35,7 @@ def calcular_preco_avulso(modalidade, horario):
         return 'Preço avulso não encontrado para as combinações fornecidas'
 
 # Configurar a interface do usuário com Streamlit
-st.set_page_config(page_title="Previsor de Preços de Pilates", page_icon=":guardsman:", layout="centered")
+st.set_page_config(page_title="Previsor de Preços de Pilates", page_icon="🧘‍♂️", layout="centered")
 
 # Adicionar CSS personalizado
 st.markdown(
@@ -125,8 +125,4 @@ st.write(f'O preço estimado é: R${preco}')
 # Adicionar logo da marca
 st.image("Previsor-Precos-Pilates/logo.png", width=250)  
 
-# Configurar o título e o ícone da página
-st.set_page_config(
-    page_title="Previsor de Preços de Pilates",  # Título da página
-    page_icon="🧘‍♂️",  # Emoji ou imagem para o ícone
-)
+
