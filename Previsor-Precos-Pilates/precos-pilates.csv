@@ -1,0 +1,47 @@
+modalidade,horario,dias_semana,plano,forma_pagamento,preco
+presencial,manhã,1,mensal,À vista,214
+presencial,manhã,1,mensal,cartão,225
+presencial,manhã,1,trimestral,À vista,200
+presencial,manhã,1,trimestral,cartão,210
+presencial,manhã,1,semestral,À vista,180
+presencial,manhã,1,semestral,cartão,190
+presencial,manhã,2,mensal,À vista,356
+presencial,manhã,2,mensal,cartão,375
+presencial,manhã,2,trimestral,À vista,337
+presencial,manhã,2,trimestral,cartão,355
+presencial,manhã,2,semestral,À vista,304
+presencial,manhã,2,semestral,cartão,320
+presencial,manhã,3,mensal,À vista,494
+presencial,manhã,3,mensal,cartão,520
+presencial,manhã,3,trimestral,À vista,423
+presencial,manhã,3,trimestral,cartão,445
+presencial,manhã,3,semestral,À vista,413
+presencial,manhã,3,semestral,cartão,435
+presencial,tarde,1,mensal,À vista,150
+presencial,noite,1,mensal,À vista,177
+presencial,noite,1,mensal,cartão,186
+presencial,noite,1,trimestral,À vista,166
+presencial,noite,1,trimestral,cartão,175
+presencial,noite,1,semestral,À vista,156
+presencial,noite,1,semestral,cartão,164
+presencial,noite,2,mensal,À vista,292
+presencial,noite,2,mensal,cartão,307
+presencial,noite,2,trimestral,À vista,281
+presencial,noite,2,trimestral,cartão,296
+presencial,noite,2,semestral,À vista,271
+presencial,noite,2,semestral,cartão,285
+presencial,noite,3,mensal,À vista,406
+presencial,noite,3,mensal,cartão,428
+presencial,noite,3,trimestral,À vista,396
+presencial,noite,3,trimestral,cartão,417
+presencial,noite,3,semestral,À vista,386
+presencial,noite,3,semestral,cartão,406
+online,manhã,1,mensal,À vista,100
+online,tarde,1,mensal,À vista,100
+online,noite,1,mensal,À vista,100
+presencial,manhã,avulso,avulso,À vista,60
+presencial,noite,avulso,avulso,À vista,60
+presencial,tarde,avulso,avulso,À vista,35
+online,manhã,avulso,avulso,À vista,30
+online,tarde,avulso,avulso,À vista,30
+online,noite,avulso,avulso,À vista,30
