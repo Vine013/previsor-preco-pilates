@@ -123,4 +123,9 @@ else:
 st.write(f'O preço estimado é: R${preco}')
 
 # Adicionar logo da marca
-st.image("logo.png", width=250)  
+st.image("Previsor-Precos-Pilates/logo.png", width=250)  
+
+st.set_page_config(
+    page_title="Previsor de Preços de Pilates",
+    page_icon="Previsor-Precos-Pilates/logo.png",  
+)
